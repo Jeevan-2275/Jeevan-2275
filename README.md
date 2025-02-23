@@ -1,5 +1,15 @@
-# Hi 👋, I'm Jeevan Kadam
-### 🚀 Full-Stack Developer | Building Scalable & Impactful Digital Solutions 💡
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=4F67F7&center=true&width=500&height=100&lines=+%F0%9F%91%8B+Hi 👋, I'm Jeevan Kadam      " alt="Typing SVG" /></a>
+</p>
+
+### 🚀 Full-Stack Developer | Building Scalable & Impactful Digital                  Solutions 💡
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=4F67F7&center=true&width=500&height=100&lines=+%F0%9F%91%8B+Hi+%F0%9F%91%8B%2C+I'm+Jeevan+Kadam;%F0%9F%9A%80+Full-Stack+Developer;%F0%9F%92%BB+Open+Source+Contributor;%F0%9F%8C%B1+Tech+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center"><img align="c" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"></p>
+
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=Jeevan-2275&color=blue&style=flat-square)](https://github.com/Jeevan-2275)
 [![GitHub followers](https://img.shields.io/github/followers/Jeevan-2275?logo=github&style=flat-square)](https://github.com/Jeevan-2275)
@@ -13,6 +23,7 @@
 - 💬 Ask me about: Full-stack development, MERN stack, or any tech in my skills list!
 
 ## 🛠️ Tech Stack
+
 ### Programming Languages
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -36,6 +47,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
 ## 📊 GitHub Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jeevan-2275&theme=dark)](https://git.io/streak-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan-2275&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeevan-2275&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -49,3 +61,12 @@
 "I talk to my code more than I talk to people! 😆"
 
 📄 [View My Resume](https://drive.google.com/file/d/your-resume-id/view) *(Replace with actual hosted PDF link)*
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Core%20Tech%20Stack&align=center&borderRadius=20&fontSize=16&lineCount=2&line1=react,react,61DAFB;node.js,node.js,339933;mongodb,mongodb,47A248;3178C6&line2=aws,aws,232F3E;docker,docker,2496ED;tailwindcss,tailwind,06B6D4" alt="Tech Stack Cards" />
+</p>
+
+
