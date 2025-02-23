@@ -1,11 +1,11 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=4F67F7&center=true&width=500&height=100&lines=+%F0%9F%91%8B+Hi 👋, I'm Jeevan Kadam      " alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=31&pause=1000&color=4F67F7&center=true&width=500&height=100&lines=+%F0%9F%91%8B+Hi  I'm Jeevan Kadam      " alt="Typing SVG" /></a>
 </p>
 
 ### 🚀 Full-Stack Developer | Building Scalable & Impactful Digital                  Solutions 💡
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=4F67F7&center=true&width=500&height=100&lines=+%F0%9F%91%8B+Full-stack+Developer;%F0%9F%92%BB+Open+Source+Contributor;%F0%9F%8C%B1+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=4F67F7&center=true&width=500&height=100&lines=+Full-stack+Developer;%F0%9F%92%BB+Open+Source+Contributor;%F0%9F%8C%B1+Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 <p align="center"><img align="c" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"></p>
