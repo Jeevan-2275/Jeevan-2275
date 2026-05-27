@@ -2,6 +2,9 @@
 <h3 align="center">💡 Crafting Web Experiences • Building AI Agents • Exploring Future Tech – from India
 </h3>
 <p align="center"><img align="c" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"></p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-398c9e4f-9d7e-4121-bd7a-1a2f7c7f3c77.gif" width="500">
+</p>
 
 <!-- Badges -->
 <p align="center">
