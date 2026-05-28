@@ -230,22 +230,23 @@ graph TD
 <div align="center">
 
 ### 🕹️ CyberDash
-<img src="https://img.shields.io/badge/Mobile_Game-4F67F7?style=for-the-badge&logo=expo&logoColor=white" alt="Tag"/>
+<img src="https://img.shields.io/badge/Neon_Runner-00D9FF?style=for-the-badge&logo=gamecontroller&logoColor=black" alt="Tag"/>
 
 **React Native infinite runner mobile game**
 
 <p align="left" style="font-size: 0.9em; min-height: 110px; margin-top: 10px;">
-✨ Infinite runner core mechanics & power-ups<br/>
-✨ Level-based progressions & collision physics<br/>
-✨ Responsive cross-device gameplay optimizations<br/>
-✨ Expo Go build Android APK deployments
+✨ 10 procedural levels, coin economy & unlock logic<br/>
+✨ Dynamic power-ups: Energy Shield & Coin Magnet<br/>
+✨ Ultra-smooth 60 FPS physics loop & particles<br/>
+✨ Full suite of 27 automated Vitest unit tests passed
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Vitest-38BDF8?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
 </p>
 
 <br/>
