@@ -408,7 +408,7 @@ graph TD
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Jeevan-2275&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeevan-2275&theme=tokyonight" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%">
       <img src="https://streak-stats.demolab.com?user=Jeevan-2275&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
@@ -445,19 +445,9 @@ graph TD
 </p>
 
 <p align="center">
-  <a href="https://github.com/Jeevan-2275" target="_blank">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeevan-2275&theme=tokyonight" alt="Stats" width="49%">
-  </a>
-  <a href="https://github.com/Jeevan-2275" target="_blank">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jeevan-2275&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="49%">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://leetcode.com/u/jeevan-2275/" target="_blank">
-    <img src="https://leetcode-stats.vercel.app/api?username=jeevan-2275&theme=Dark" alt="LeetCode Stats" width="49%">
+    <img src="https://leetcode-stats.vercel.app/api?username=jeevan-2275&theme=Dark" alt="LeetCode Stats" width="60%">
   </a>
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeevan-2275&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" width="49%">
 </p>
 
 </div>
