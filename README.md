@@ -422,12 +422,7 @@ graph TD
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevan-2275&bg_color=0D1117&color=7C3AED&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
-<br/>
 
-<!-- Pacman Contribution Animation -->
-<img src="https://raw.githubusercontent.com/Jeevan-2275/Jeevan-2275/output/pacman-contribution-graph-dark.svg" onerror="this.src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif';" width="100%" alt="Pacman Graph" />
-
-<br/>
 
 ### 📈 GitHub Profile Analytics
 
