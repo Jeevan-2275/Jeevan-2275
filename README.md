@@ -420,10 +420,12 @@ graph TD
 
 ### 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevan-2275&bg_color=0D1117&color=7C3AED&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevan-2275&bg_color=0D1117&color=7C3AED&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" /><br/>
 
+<!-- Pacman Contribution Animation -->
+<img src="https://raw.githubusercontent.com/Jeevan-2275/Jeevan-2275/output/pacman-contribution-graph-dark.svg" onerror="this.style.display='none';" width="100%" alt="Pacman Graph" />
 
-
+<br/>
 ### 📈 GitHub Profile Analytics
 
 <a href="https://github.com/Jeevan-2275" target="_blank">
@@ -514,7 +516,8 @@ graph TD
 <div align="center">
 
 ### 💭 Developer Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+
+> *"Talk is cheap. Show me the code."* — **Linus Torvalds**
 
 <br/><br/>
 

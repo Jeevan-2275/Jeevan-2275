@@ -1,0 +1,34 @@
+/* Custom CSS styling for GitHub Profile README section */
+
+.project-card {
+  border: 1px solid #7c3aed;
+  border-radius: 12px;
+  background-color: #0d1117;
+  padding: 15px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 20px rgba(124, 58, 237, 0.3);
+}
+
+.tech-icon {
+  margin: 5px;
+  display: inline-block;
+}
+
+.avatar {
+  border-radius: 50%;
+  border: 2px solid #7c3aed;
+  transition: transform 0.3s ease;
+}
+
+.avatar:hover {
+  transform: scale(1.05);
+}
+
+.glow-text {
+  color: #7c3aed;
+  text-shadow: 0 0 10px rgba(124, 58, 237, 0.5);
+}
