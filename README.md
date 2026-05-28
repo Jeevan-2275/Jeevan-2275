@@ -7,7 +7,7 @@
 
 <!-- Animated Title Typing SVG -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Hi+👋%2C+I'm+Jeevan+Kadam;Full+Stack+Developer;React+%7C+Node+%7C+React+Native;Building+Innovative+Solutions;Crafting+Web+Experiences;Building+AI+Agents;MERN+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I%27m+Jeevan+Kadam;Full+Stack+Developer;React+%7C+Node+%7C+React+Native;Building+Innovative+Solutions;Crafting+Web+Experiences;Building+AI+Agents;MERN+Stack+Developer" alt="Typing SVG" />
 </h1>
 
 ### 💡 Crafting Web Experiences • Building AI Agents • Exploring Future Tech – from India 🇮🇳
